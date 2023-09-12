@@ -1,3 +1,17 @@
-# Contemporary Issues In Data
+# Contemporary Issues In Data 
+## DOJ v. Google
+### Quynh K Nguyen - qkn201
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+The first time I heard about US lawsuuit against Google was around Covid years. Basically, The United States Department of Justice (DOJ) accused Google of monopolizing its search engine and advertising technology, hatling the rise of rival technologies and local businesses.
+
+This article [1] focuses on DOJ's arguments for this trial, first tech antitrust trial in decades. In the article, DOJ or Google's competitors have complained that the company had made it impossible for users to try other search enegines by default. Through deals with wireless carriers and smartphones, also known as payola, Google redirects their consumers to its products immediately without allowing consumers to choose their search engine. This is one of the reason why competitors like DuckDuckGo is not very pleased with how the market is "shared". This, to me, sounds like unfair yet justificable compeition. 
+
+There is a reason why Google is where it is today. I would say 90% of the time using Google as a search engine, I am happy with the service, especially with the advent of Generative AI. My searching experience with Google so far is very straightforward and convenient. I did try Microsft Edge, Coc Coc, and DuckDuckGo, but Google is still the fastest, most user-friendly and conveinent. It is true to some extent when Kent Walker says that device makers choose Google as default search engine "based on the quality of our products"[2]. It's also important to keep in mind that Bing and Yahoo also feature its services on Safari by Apple via payola. In the article from CNBC, Walker defends Google mostly on the argument that it is the company's competence that draws the attentions of users, not its illegal monopolization.   
+
+However, I believe that Google is still a for-profit corporate with ambitious goals; therefore, it needs money from advertising to fund for research & development and so on. So it will not be surprising for a tech giant like Google to utilize advertising technology and data collection through search engine as a lucrative source of money. With such control over search engine, Google has to power to charge higher advertising fees which can harm small and local businesses. Still, the company has already offered free profile for small businesses to literally put them on the map (Google Search and Maps). The only thing that can be used against Google is privacy. This I have to agree. I had to install extension on ad blocks and tracking filter to prevent myself from unwanted data retrieval. Even my experience with DuckDuckGo is not as convenient as mine with Google, I do feel safer to put my information up there. 
+
+Again, I was talking to an employer at EY few weeks ago. They mentioned how generative AI is increasingly incorporated and studied even within accounting firm let alone tech giant. If Google is going to improve its search engine with generative AI (right now it is still experimental), I think more real data from users is to be called for. My concern would be if my data, which is used for generative AI training every time I use Google's search bar, will also be used for digital advertising.
+
+Source:
+[1]. [Washington Post](https://www.washingtonpost.com/technology/2023/09/10/doj-google-antitrust-case-trial/) - Sep 10, 2023
+[2]. [CNBC](https://www.cnbc.com/2023/09/08/heres-how-google-plans-to-fight-the-doj.html) - Sep 8, 2023
